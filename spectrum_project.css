@@ -1,0 +1,38 @@
+h1{
+  font-family: 'Anton', sans-serif;
+  text-align: center;
+  font-size: 80px
+}
+
+.pattern{
+  margin: auto;
+}
+
+td{
+  height: 100px;
+  padding: 100px;
+  border: 10px solid white;
+}
+
+#one{
+  background-color: #000000
+}
+
+#two{
+  background-color: #14213D
+
+}
+
+#three{
+  background-color: #FCA311
+
+}
+
+#four{
+  background-color: #d4e09b
+
+}
+
+#five{
+  background-color: #E5E5E5
+}
